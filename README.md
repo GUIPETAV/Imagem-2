@@ -1,4 +1,5 @@
 # Conversão de RGB para Escala de Cinza
+No processamento de imagens RGB, cada pixel possui 3 canais de cores: Vermelho (R), Verde (G) e Azul (B), com valores de 0 a 255.
 
 ## Método `convert('L')`
 
